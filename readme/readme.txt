@@ -6,3 +6,4 @@ workspace test
 My stupid boss still prefers SVN
 
 hello
+hello git 
